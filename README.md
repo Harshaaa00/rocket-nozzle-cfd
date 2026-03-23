@@ -85,7 +85,3 @@ This project presents the complete design and CFD simulation of a **convergent�
 </div>
 
 ---
-
-<div align="center">
-<sub>Built with ❤️ using ANSYS Fluent | CFD Study — 600 N Convergent–Divergent Rocket Nozzle</sub>
-</div>
